@@ -38,7 +38,10 @@ All events are private by default and kept in a separate calendar in your Google
 
 4. Use **Cycle Tools → Predict from Settings only** to generate events.
 
-5. In Google Calendar, make sure your `CalendarName` calendar is visible.
+5. On first run, you may see a warning that the app isn’t verified by Google. This is normal for open-source projects. 
+Click “Advanced → Continue” to proceed. The script only requests Calendar and Sheets permissions, and all data stays in your own Google account. 
+
+6. In Google Calendar, make sure your `CalendarName` calendar is visible.
 
 
 ## Updating or resetting
